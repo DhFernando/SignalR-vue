@@ -847,10 +847,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@microsoft/signalr@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.0.tgz#2ed5ab78de1ae252d3c18504355ca74814c62284"
-  integrity sha512-ZAScxodI15jr1MF359jwelhrr/fkvCCTWUB5awRO+ibPyBvMS6KsSzWfN/AObc0EqvJPmYtjJgCBWR62nInlCg==
+"@microsoft/signalr@^3.1.4":
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.4.tgz#1082d2063be2d04d4b4699c6a2fb17232127ff43"
+  integrity sha512-GobftNY4dH0ewciBvfeJU2oQwa4ceXoHplSMlOZdf0G+NSjITFAjhSYFqSUyIRSmkDark17R5hGeuvd58/9Ivg==
   dependencies:
     eventsource "^1.0.7"
     request "^2.88.0"
@@ -1317,9 +1317,9 @@ acorn-walk@^7.0.0:
   integrity sha512-wdlPY2tm/9XBr7QkKlq0WQVgiuGTX6YWPyRyBviSoScBuLfTVQhvwg6wJ369GJ/1nPfTLMfnrFIfjqVg6d+jQQ==
 
 acorn@^6.0.7, acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.1.0:
   version "7.1.0"
