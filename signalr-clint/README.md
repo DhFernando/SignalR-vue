@@ -1,28 +1,31 @@
-# signalr-clint
+# signalr-client
+
+## Javascript Client Packages:
+
+```
+yarn add @microsoft/signalr
+```
+
+## .NET SignalR Packages:
+```
+dotnet add package Microsoft.AspNetCore.SignalR
+dotnet add package Microsoft.AspNetCore.SignalR.Client
+dotnet add package Newtonsoft.Json
+```
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+yarn build
 ```
 
 ### Customize configuration

@@ -18,9 +18,9 @@ namespace SignalRVue.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public JsonResult Index()
         {
-            return View();
+            return Json("SignalR - Asp .net Core 3.1 & Vue 2.2");
         }
 
         public IActionResult Privacy()
