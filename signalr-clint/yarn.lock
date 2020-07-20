@@ -847,10 +847,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@microsoft/signalr@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.0.tgz#2ed5ab78de1ae252d3c18504355ca74814c62284"
-  integrity sha512-ZAScxodI15jr1MF359jwelhrr/fkvCCTWUB5awRO+ibPyBvMS6KsSzWfN/AObc0EqvJPmYtjJgCBWR62nInlCg==
+"@microsoft/signalr@^3.1.4":
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.6.tgz#c4d7e3abf634ee817e501f65c0517f966ff2bade"
+  integrity sha512-beVfxZW7RQ+p0t88TCBbfnvOe1e05f3/BsB8MqXl8k7AecuoNP9ocu6ZhaXOm8eJva096QBoWOPfMomG8L6zLA==
   dependencies:
     eventsource "^1.0.7"
     request "^2.88.0"
@@ -4710,9 +4710,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
