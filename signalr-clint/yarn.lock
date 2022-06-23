@@ -847,10 +847,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@microsoft/signalr@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.0.tgz#2ed5ab78de1ae252d3c18504355ca74814c62284"
-  integrity sha512-ZAScxodI15jr1MF359jwelhrr/fkvCCTWUB5awRO+ibPyBvMS6KsSzWfN/AObc0EqvJPmYtjJgCBWR62nInlCg==
+"@microsoft/signalr@^3.1.4":
+  version "3.1.26"
+  resolved "https://registry.yarnpkg.com/@microsoft/signalr/-/signalr-3.1.26.tgz#55a680575f17fcd62b16aece502a083327b9618d"
+  integrity sha512-T9TW+MyGOfJ5gorW+1nHrbjYPheCmau98ifKi7VbbDJiB9L8cTSt2HymuNPv0XP+c2vU2lS18oXvoBT7231q/Q==
   dependencies:
     eventsource "^1.0.7"
     request "^2.88.0"
@@ -6704,9 +6704,9 @@ shebang-regex@^3.0.0:
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
